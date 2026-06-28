@@ -29,7 +29,7 @@ The device uses the following main components:
 ## Repository Structure
 
 ```text
-Oliver-Case/
+CapacitiveKeyboard/
 │
 ├── code/
 │   └── Source code for the ESP32-S3 device
