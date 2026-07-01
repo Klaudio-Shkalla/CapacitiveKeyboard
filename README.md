@@ -7,6 +7,10 @@ The device combines a capacitive touch keyboard, a touchpad for mouse movement, 
 
 The goal of the project is to create an accessible input device that can be used with very little physical force.
 
+<img width="1200" height="1600" alt="photo1" src="https://github.com/user-attachments/assets/12480e32-8642-45a6-93e1-1fc9fdcc148f" />
+<img width="1200" height="1600" alt="photo4" src="https://github.com/user-attachments/assets/29f5d4b2-1ade-4c45-b9f8-0d801bcf1e88" />
+
+
 ## Main Functions
 
 - Bluetooth keyboard and mouse control
